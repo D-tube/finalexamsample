@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- output, history and settings fragments -->
+    <string-array name="status_text">
+        <item>@string/full_time</item>
+        <item>@string/part_time</item>
+        <item>@string/seasonal</item>
+    </string-array>
+    <string-array name="status_index">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
